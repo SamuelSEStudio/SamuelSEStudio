@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelSEStudio
 - 👀 I’m interested in ... Making games, Animation and Art. I want to get better at creative coding and writing.
-- 🌱 I’m currently learning ... how to use open tunes and refining my skills in the principles of animation.
+- 🌱 I’m currently learning ... how to use OpenToonz and refining my skills in the principles of animation.
 - 💞️ I’m looking to collaborate on ... Games and animation. Code wise I'm still finding my way please reach out. 
 - 📫 How to reach me ... samuel@sestudios.co.nz
 - 😄 Pronouns: ... he/him
